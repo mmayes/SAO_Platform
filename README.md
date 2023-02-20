@@ -12,4 +12,4 @@ the files contained within the fabrication folder were sufficient to
 facilaite that. It's quite possible that the LCSC Part number may have 
 changed since then.
 
-[<img src="SAO_Platform_image.png" width="500px">]
+<img src="SAO_Platform_image.png" width="500px">

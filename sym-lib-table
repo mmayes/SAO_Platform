@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "misc")(type "KiCad")(uri "/Users/danallen/Documents/KiCad/Libraries/Symbols/misc.kicad_sym")(options "")(descr ""))
+  (lib (name "linear_regulator")(type "KiCad")(uri "/Users/danallen/Documents/KiCad/Libraries/Symbols/linear_regulator.kicad_sym")(options "")(descr ""))
+)
